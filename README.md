@@ -2,7 +2,7 @@
 YOLO You only look once (YOLO) is a state-of-the-art, real-time object detection system. The latest YOLOv8 is  known for its runtime efficiency as well as detection accuracy. To utilise its potential deploying the 
 model at scale is crucial. Here, a YOLOv8 model is hosted on the Amazon SageMaker endpoint and inference was run for input images/videos for object detection.
 
-<img src="images/highway1-detect2.gif?raw=true"/> 
+<img src="images/highway1-detect3.gif?raw=true"/> 
 
 Object detection with YOLOv8 model deployed om Amazon SageMaker endpoints
 
